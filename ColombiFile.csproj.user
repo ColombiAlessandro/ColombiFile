@@ -10,5 +10,8 @@
     <Compile Update="ImpostaLunghezza.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="lunghezzaMax.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

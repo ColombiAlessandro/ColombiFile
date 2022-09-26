@@ -32,7 +32,10 @@ namespace ColombiFile
 
         private void lunghezzaMax_Click(object sender, EventArgs e)
         {
-
+            lunghezzaMax lngt = new lunghezzaMax();
+            this.Hide();
+            lngt.ShowDialog();
+            this.Close();
         }
     }
 }

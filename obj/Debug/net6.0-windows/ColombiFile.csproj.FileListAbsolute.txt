@@ -17,3 +17,4 @@ C:\Users\colombi.19314\source\repos\ColombiFile\ColombiFile\obj\Debug\net6.0-win
 C:\Users\colombi.19314\source\repos\ColombiFile\ColombiFile\obj\Debug\net6.0-windows\ColombiFile.genruntimeconfig.cache
 C:\Users\colombi.19314\source\repos\ColombiFile\ColombiFile\obj\Debug\net6.0-windows\ref\ColombiFile.dll
 C:\Users\colombi.19314\source\repos\ColombiFile\ColombiFile\obj\Debug\net6.0-windows\ColombiFile.ImpostaLunghezza.resources
+C:\Users\colombi.19314\source\repos\ColombiFile\ColombiFile\obj\Debug\net6.0-windows\ColombiFile.lunghezzaMax.resources
